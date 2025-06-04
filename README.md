@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗝𝗔𝗪𝗔𝗗-𝗠𝗗</h1>
-</p>
+</p>IK~2F4HSQ7C#fQf-HbI5JHX0NWW0vQQtFNWJStl9DOAKQD2vQYwLamo
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
