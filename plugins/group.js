@@ -1,1 +1,748 @@
-const _0x1c050d=_0xf753;function _0x3621(){const _0xc5fb9f=['Join\x20a\x20Group\x20Using\x20an\x20Invite\x20Link.','2gljSBR','groupCreate','filter','*Group\x20Chat\x20Muted*\x20🔇','reject','Get\x20a\x20user\x27s\x20profile\x20picture.','I\x27m\x20not\x20an\x20admin\x20in\x20this\x20group.','Saving\x20','There\x20are\x20no\x20admins\x20in\x20this\x20group.','setgname','You\x20must\x20be\x20the\x20bot\x20owner\x20to\x20make\x20the\x20bot\x20leave\x20the\x20group.','❌\x20Error\x20updating\x20group\x20subject:\x20','path','Here\x20is\x20the\x20group\x27s\x20invite\x20link:\x0a','\x0aEND:VCARD\x0a','mute','declineall','forEach','Get\x20a\x20List\x20of\x20Group\x20Admins.','promote','3836567HrjiIA','No\x20description','Update\x20Group\x20Name/Subject','An\x20error\x20occurred:\x20','*Group\x20Admins:*\x0a\x0a','.requests','exit','grouppp','decline','.accept','participants','\x20participants\x20contact...','text/vcard','This\x20command\x20only\x20works\x20in\x20groups.','Accept\x20all\x20Pending\x20Group\x20Join\x20Requests','message','mentioned','some','@whiskeysockets/baileys','Only\x20admins\x20or\x20the\x20bot\x20owner\x20can\x20use\x20this\x20command.','random','*📛\x20THIS\x20IS\x20AN\x20OWNER\x20COMMAND*','groupRequestParticipantsUpdate','1821665VYMito','kick','Error\x20tagging\x20admins:','remove','Failed\x20to\x20accept\x20join\x20requests.\x20Please\x20try\x20again\x20later.','error','whatsapp.com','Please\x20tag\x20or\x20reply\x20to\x20a\x20user\x20to\x20demote.','getpp','1000151SuWxkE','getadmins','Revoke/Reset\x20Group\x20Invite\x20Link','🖼️','superadmin','groupRequestParticipantsList','An\x20error\x20occurred\x20while\x20trying\x20to\x20make\x20the\x20bot\x20leave\x20the\x20group.','key','listall','Error\x20rejecting\x20join\x20requests:','Tags\x20all\x20the\x20Admins\x20in\x20the\x20Group.','poll','groupUpdateSubject','approve-all','Failed\x20to\x20reject\x20join\x20requests.\x20Please\x20try\x20again\x20later.','newgc','approveall','Get\x20the\x20Group\x20Profile\x20Picture.','makeadmin','decline-all','Attention\x20Everyone','Adds\x20a\x20Member\x20to\x20the\x20Group.','❌\x20Error\x20creating\x20group:\x20','Error\x20retrieving\x20join\x20requests:','general','tagadmin','View\x20all\x20Pending\x20Join\x20Requests','Please\x20tag\x20or\x20reply\x20to\x20a\x20user\x20to\x20promote.','Please\x20tag\x20or\x20reply\x20to\x20a\x20user\x20to\x20remove.','Error\x20kicking\x20users:','newgrp','gcinfo','glink','join','Unlock/Unmute\x20Group.','Update\x20Group\x20Description','\x20has\x20been\x20removed\x20from\x20the\x20group.','This\x20command\x20is\x20only\x20for\x20group\x20admin.','Only\x20group\x20admins\x20can\x20use\x20this\x20command.','\x22\x20created\x20successfully!\x0a\x0aHere\x20is\x20the\x20invite\x20link\x20to\x20your\x20group:\x20\x0a','❌\x20You\x20are\x20not\x20the\x20owner!','Error\x20accepting\x20join\x20requests:','Error:\x20','An\x20error\x20occurred\x20while\x20trying\x20to\x20kick\x20all\x20members.\x20Please\x20try\x20again.','*\x0a▢\x20Members\x20:\x20*','admins','*INVALID\x20LINK!*','.reject\x20<request\x20numbers>','*_This\x20command\x20is\x20for\x20the\x20owner\x20only_*','❌\x20You\x20must\x20be\x20in\x20a\x20group\x20and\x20the\x20owner\x20to\x20use\x20this\x20command!','groupRevokeInvite','Hello\x20_*','isGroup','unmute','❌\x20Error\x20revoking\x20invite\x20link:\x20','group','*Group\x20Chat\x20Unmuted*\x20🔊','onlygroup','slice','Incorrect\x20format.\x0aExample:\x20*.poll\x20Do\x20you\x20love\x20Jawad-Md:Yes,\x20No,\x20Not\x20Sure*','Mention\x20all\x20Group\x20Members.','tagall','acceptall','_🙅🏻\x20I\x20can\x27t\x20steal\x20my\x20own\x20profile\x20picture_','This\x20command\x20cannot\x20be\x20used\x20inside\x20a\x20group.','2442438GMzMxn','\x20join\x20request(s).','getpic','newgrpchat','❌\x20Error\x20updating\x20group\x20description:\x20','scontact','needbotadmins','groupUpdateDescription','5290288XkWynl','Error\x20fetching\x20profile\x20picture\x20URL:','There\x20are\x20no\x20non-admin\x20members\x20to\x20kick.','grouplink','Demote\x20an\x20Admin\x20to\x20Member.','sendMessage','Bot\x20must\x20be\x20an\x20admin\x20to\x20kick\x20users!','https://chat.whatsapp.com/','groupParticipantsUpdate','17602614mAeyaf','This\x20command\x20is\x20only\x20for\x20groups!','\x20has\x20been\x20added\x20to\x20the\x20group.','tag-all','reset','groupInviteCode','You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.','gcpp','BEGIN:VCARD\x0aVERSION:3.0\x0aFN:[','chat','user','react','💬\x20Group\x20\x22','524340FLZkuo','Create\x20a\x20new\x20Group\x20and\x20Send\x20the\x20Invite\x20link','This\x20command\x20is\x20only\x20for\x20groups.','floor','desc','No\x20pending\x20join\x20requests.','6wqwkME','Makes\x20the\x20Bot\x20Leave\x20the\x20Group.','@s.whatsapp.net','admin','❤‍🩹','Lock/Mute\x20Group.','kik','add','▢\x20Group\x20:\x20*','userpp','image','list-all','lock','Here\x20is\x20the\x20profile\x20picture.','jid','accept-all','accept','split','\x0a\x0a*Group\x20Description:*\x20','groupinfo','Bot\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.','length','⚠️\x20An\x20error\x20occurred\x20while\x20fetching\x20the\x20user\x20profile\x20picture.','requests','This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups.','groupSettingUpdate','Successfully\x20kicked\x20all\x20non-admin\x20members\x20from\x20the\x20group.','Please\x20provide\x20a\x20phone\x20number\x20to\x20add.','This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group.','includes','*Error\x20!!*','setgdesc','🗣️','newgroup','rejectall','Failed\x20to\x20join\x20the\x20group.\x20The\x20link\x20may\x20be\x20invalid\x20or\x20expired.','subject','This\x20command\x20is\x20for\x20groups\x20only.','Generate\x20and\x20Send\x20the\x20Group\x27s\x20Invite\x20Link.','\x0a\x0a*Created\x20On:*\x20','open',']\x20+','left','Save\x20group\x20participants\x20as\x20vCard','savecontact','not_announcement','Rejected\x20','groupjoin','invite','log','trim','groupMetadata','mentionedJid','gname','you\x20are\x20not\x20an\x20admin.','🔗\x20Group\x20invite\x20link\x20revoked!\x20New\x20link:\x20','kickall','\x0aTEL;type=CELL;type=VOICE;waid=','map','⚠️\x20Unable\x20to\x20fetch\x20the\x20profile\x20picture.\x20The\x20user\x20might\x20not\x20have\x20one.','sender','approve','profilePictureUrl','Reject\x20all\x20Pending\x20Group\x20Join\x20Request(s)','.\x20@','demote'];_0x3621=function(){return _0xc5fb9f;};return _0x3621();}(function(_0x338205,_0x44e1bd){const _0x5e8987=_0xf753,_0x397505=_0x338205();while(!![]){try{const _0x495d4d=-parseInt(_0x5e8987(0x1ce))/0x1*(parseInt(_0x5e8987(0x276))/0x2)+-parseInt(_0x5e8987(0x20f))/0x3+-parseInt(_0x5e8987(0x22d))/0x4+parseInt(_0x5e8987(0x1c5))/0x5*(-parseInt(_0x5e8987(0x233))/0x6)+parseInt(_0x5e8987(0x28a))/0x7+parseInt(_0x5e8987(0x217))/0x8+parseInt(_0x5e8987(0x220))/0x9;if(_0x495d4d===_0x44e1bd)break;else _0x397505['push'](_0x397505['shift']());}catch(_0x42a207){_0x397505['push'](_0x397505['shift']());}}}(_0x3621,0xd0dca));const {gmd,sleep,config,getBuffer,commands}=require('../lib'),{WA_DEFAULT_EPHEMERAL,jidNormalizedUser,generateWAMessageFromContent,getContentType,generateForwardMessageContent,downloadContentFromMessage,jidDecode}=require(_0x1c050d(0x1c0)),{PREFIX:prefix}=config,fs=require('fs'),path=require(_0x1c050d(0x282));function _0xf753(_0x1a5147,_0x2d6275){const _0x3621f5=_0x3621();return _0xf753=function(_0xf753a6,_0x41523d){_0xf753a6=_0xf753a6-0x1af;let _0x401135=_0x3621f5[_0xf753a6];return _0x401135;},_0xf753(_0x1a5147,_0x2d6275);}let userWarnings={};gmd({'pattern':'vcf','alias':[_0x1c050d(0x25f),_0x1c050d(0x214),'savecontacts'],'desc':_0x1c050d(0x25e),'category':_0x1c050d(0x205),'filename':__filename},async(_0x5e15c8,_0x23f4c3,_0x588d2c,{from:_0x2ef5ac,quoted:_0x20a335,isGroup:_0x36ada6,isOwner:_0x2701d9,groupMetadata:_0x2bfc90,reply:_0x3c2c5c})=>{const _0x490c15=_0x1c050d;try{if(!_0x36ada6)return _0x3c2c5c(_0x490c15(0x258));if(!_0x2701d9)return _0x3c2c5c(_0x490c15(0x1fe));const _0xc2a087=_0x2bfc90?.[_0x490c15(0x1b8)]||[];let _0x52e05c='',_0x3941e2=0x1;for(let _0x139636 of _0xc2a087){const _0x1fad13=_0x139636['id'][_0x490c15(0x244)]('@')[0x0];_0x52e05c+=_0x490c15(0x228)+_0x3941e2++ +_0x490c15(0x25c)+_0x1fad13+_0x490c15(0x26c)+_0x1fad13+':+'+_0x1fad13+_0x490c15(0x284);}const _0x4ed75a='./contacts.vcf';fs['writeFileSync'](_0x4ed75a,_0x52e05c['trim']()),_0x3c2c5c(_0x490c15(0x27d)+_0xc2a087['length']+_0x490c15(0x1b9)),await sleep(0x5dc),await _0x5e15c8[_0x490c15(0x21c)](_0x2ef5ac,{'document':fs['readFileSync'](_0x4ed75a),'mimetype':_0x490c15(0x1ba),'fileName':'jawad_tech.vcf','caption':'\x0aDone\x20saving.\x0aGroup\x20Name:\x20*'+_0x2bfc90[_0x490c15(0x257)]+'*\x0aContacts:\x20*'+_0xc2a087[_0x490c15(0x248)]+'*\x0a>\x20ᴘᴏᴡᴇʀᴇᴅ\x20ʙʏ\x20ᴘʀɪɴᴄᴇ\x20ᴛᴇᴄʜ'},{'quoted':_0x23f4c3}),fs['unlinkSync'](_0x4ed75a),await _0x588d2c[_0x490c15(0x22b)]('✅');}catch(_0x1c305f){_0x3c2c5c('❌\x20Error:\x20'+_0x1c305f['message']);}}),gmd({'pattern':_0x1c050d(0x1e7),'alais':['tagadmins'],'react':'🙀','desc':_0x1c050d(0x1d8),'category':_0x1c050d(0x205),'filename':__filename},async(_0x2e6ce6,_0xd652b6,_0x5dc297,{from:_0x13a8c4,prefix:_0x509a69,quoted:_0x11dcc0,body:_0x35a6ff,isCmd:_0x1952a8,command:_0x180a19,args:_0xcb7861,q:_0x4df863,isGroup:_0x217747,sender:_0x1c9f70,senderNumber:_0x2e3fbf,botNumber2:_0x97bfe8,botNumber:_0x3e321d,pushname:_0x3c0a77,isMe:_0x3d3c9b,isOwner:_0x234fbb,groupMetadata:_0x44faff,groupName:_0x372ea1,participants:_0x34115e,groupAdmins:_0x5a892b,isBotAdmins:_0x18cbee,isAdmins:_0x5337eb,reply:_0x5af74b})=>{const _0x59a596=_0x1c050d;try{if(!_0x217747)return _0x5af74b(_0x59a596(0x22f));if(!_0x5337eb)return _0x5af74b(_0x59a596(0x1f3));const _0x591d11=_0x5a892b;if(_0x591d11['length']===0x0)return _0x5af74b(_0x59a596(0x27e));let _0x1342df='*ALL\x20ADMINS\x20IN\x20THE\x20GROUP\x20🔳:*\x0a\x0a';for(let _0x259e29 of _0x591d11){_0x1342df+='@'+_0x259e29[_0x59a596(0x244)]('@')[0x0]+'\x0a';}await _0x2e6ce6[_0x59a596(0x21c)](_0x13a8c4,{'text':_0x1342df,'mentions':_0x591d11},{'quoted':_0xd652b6});}catch(_0x39f39a){console[_0x59a596(0x1ca)](_0x59a596(0x1c7),_0x39f39a),_0x5af74b(_0x59a596(0x269));}}),gmd({'pattern':_0x1c050d(0x26b),'alias':[_0x1c050d(0x239)],'desc':'Kicks\x20all\x20non-admin\x20Members\x20from\x20the\x20Group.','react':'👏','category':_0x1c050d(0x205),'filename':__filename},async(_0x28f1a1,_0x1ee1b9,_0x1c5d85,{from:_0x2f3664,quoted:_0x51c9a5,body:_0x3da4cb,isCmd:_0xb3c1a4,command:_0x1b7869,args:_0x419578,q:_0x1d5e82,isGroup:_0x4c1bf4,sender:_0x296251,senderNumber:_0x1c3212,botNumber2:_0x2eeac5,botNumber:_0x1ca63d,pushname:_0x459164,isMe:_0x452b4b,isOwner:_0xa61370,groupMetadata:_0x15fd54,groupName:_0x166385,participants:_0x46f027,groupAdmins:_0x19f9df,isBotAdmins:_0x11e0fb,isAdmins:_0x213cda,reply:_0x36118e})=>{const _0x664ec6=_0x1c050d;try{if(!_0x213cda)return _0x36118e('Only\x20Admins\x20Allowed\x20to\x20use\x20this\x20Command!');if(!_0xa61370)return _0x36118e('Owner\x20Only\x20Command!');if(!_0x4c1bf4)return _0x36118e(_0x664ec6(0x221));if(!_0x11e0fb)return _0x36118e(_0x664ec6(0x21d));const _0x27ea3c=_0x15fd54[_0x664ec6(0x1b8)],_0x3dd0ea=_0x27ea3c[_0x664ec6(0x278)](_0x454d0b=>!_0x19f9df[_0x664ec6(0x250)](_0x454d0b['id']));if(_0x3dd0ea[_0x664ec6(0x248)]===0x0)return _0x36118e(_0x664ec6(0x219));for(let _0x67ed88 of _0x3dd0ea){await _0x28f1a1[_0x664ec6(0x21f)](_0x1c5d85[_0x664ec6(0x229)],[_0x67ed88['id']],_0x664ec6(0x1c8));}_0x36118e(_0x664ec6(0x24d));}catch(_0x12c687){console[_0x664ec6(0x1ca)](_0x664ec6(0x1eb),_0x12c687),_0x36118e(_0x664ec6(0x1f9));}}),gmd({'pattern':_0x1c050d(0x246),'alias':['ginfo',_0x1c050d(0x1ed)],'desc':'Get\x20Information\x20About\x20the\x20Group.','react':'👥','category':_0x1c050d(0x205),'filename':__filename},async(_0x117239,_0x3def22,_0x32531d,{from:_0x301f59,q:_0x21d7f7,isGroup:_0x4db4e6,groupMetadata:_0x5bde72,groupName:_0x432ec1,participants:_0xc9eb3c,groupAdmins:_0x2a7482,isBotAdmins:_0x180810,isAdmins:_0x56d01f,reply:_0x5db74e})=>{const _0x525072=_0x1c050d;try{if(!_0x4db4e6)return _0x5db74e(_0x525072(0x24f));if(!_0x180810)return _0x5db74e(_0x525072(0x247));if(!_0x56d01f)return _0x5db74e('You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.');const _0x522959=await _0x117239[_0x525072(0x266)](_0x301f59),_0x23e2d9='\x0a\x0a*Group\x20Name:*\x20'+_0x522959[_0x525072(0x257)]+_0x525072(0x245)+(_0x522959[_0x525072(0x231)]||_0x525072(0x1af))+'\x0a\x0a*Members:*\x20'+_0x522959[_0x525072(0x1b8)][_0x525072(0x248)]+_0x525072(0x25a)+new Date(_0x522959['creation']*0x3e8)['toLocaleString']();return await _0x117239[_0x525072(0x21c)](_0x301f59,{'text':_0x23e2d9},{'quoted':_0x3def22});}catch(_0x1a5146){console[_0x525072(0x264)](_0x1a5146),await _0x32531d[_0x525072(0x22b)]('❌'),_0x5db74e(_0x525072(0x1f8)+_0x1a5146['message']);}}),gmd({'pattern':_0x1c050d(0x1d9),'desc':'Creates\x20Poll/Vote','category':_0x1c050d(0x205),'react':'🔎','filename':__filename},async(_0x395705,_0x387f4b,_0x38718a,{from:_0x12eecb,args:_0x5d3479,isGroup:_0x21ef7e,isAdmins:_0x37bcd9,isBotAdmins:_0x57a7d5,pushname:_0x98b3f1,q:_0x2be5b8,reply:_0x57c095})=>{const _0x678d95=_0x1c050d;try{if(!_0x21ef7e)return _0x57c095(_0x678d95(0x24f));if(!_0x57a7d5)return _0x57c095(_0x678d95(0x247));if(!_0x37bcd9)return _0x57c095('You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.');if(!_0x2be5b8)return _0x57c095(_0x678d95(0x201)+_0x98b3f1+'*_\x20,\x20Please\x20use\x20the\x20example:\x20*'+prefix+'poll\x20Do\x20you\x20love\x20Jawad-Md:Yes,\x20No,\x20Not\x20Sure*');let [_0x3c4d99,_0x47cebf]=_0x2be5b8[_0x678d95(0x244)](':');if(_0x2be5b8[_0x678d95(0x244)](':')[_0x678d95(0x248)]<0x2)return _0x57c095(_0x678d95(0x209));let _0x34e731=_0x47cebf[_0x678d95(0x244)](',')[_0x678d95(0x26d)](_0x4b4cc9=>_0x4b4cc9[_0x678d95(0x265)]());await _0x395705[_0x678d95(0x21c)](_0x12eecb,{'poll':{'name':_0x3c4d99['trim'](),'values':_0x34e731,'selectableCount':0x1}},{'quoted':_0x387f4b}),await _0x38718a['react']('✅');}catch(_0x230789){console[_0x678d95(0x264)](_0x230789),_0x57c095(''+_0x230789);}}),gmd({'pattern':'promote','alias':[_0x1c050d(0x236),'toadmin',_0x1c050d(0x1e0)],'desc':'Promote\x20a\x20Member\x20to\x20Admin.','category':'group','react':'🔼','filename':__filename},async(_0x565a09,_0x13d53e,_0x52b4a4,{from:_0x4e967f,pushname:_0x2dde1a,quoted:_0x461fc2,isGroup:_0x40ef2f,isBotAdmins:_0x2f55df,isAdmins:_0x58adc4,reply:_0x5479c1})=>{const _0x3b504b=_0x1c050d;try{if(!_0x40ef2f)return _0x5479c1('This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group.');if(!_0x2f55df)return _0x5479c1('Bot\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.');if(!_0x58adc4)return _0x5479c1(_0x3b504b(0x226));const _0x4a6c1d=_0x461fc2?.[_0x3b504b(0x26f)]||_0x52b4a4[_0x3b504b(0x1be)]?.[0x0];if(!_0x4a6c1d)return _0x5479c1(_0x3b504b(0x1e9));await _0x565a09['groupParticipantsUpdate'](_0x4e967f,[_0x4a6c1d],_0x3b504b(0x289)),await _0x5479c1('@'+_0x4a6c1d[_0x3b504b(0x244)]('@')[0x0]+'\x20has\x20been\x20promoted\x20to\x20admin.',{'mentions':[_0x4a6c1d]});}catch(_0x3961dd){console[_0x3b504b(0x1ca)](_0x3961dd),_0x5479c1(String(_0x3961dd));}}),gmd({'pattern':_0x1c050d(0x274),'desc':_0x1c050d(0x21b),'category':_0x1c050d(0x205),'react':'🔽','filename':__filename},async(_0x2d6442,_0xcff6f8,_0x164d25,{from:_0x1e15ef,pushname:_0x35dd0f,quoted:_0x123e9f,isGroup:_0x36cfb6,isBotAdmins:_0x52d1d0,isAdmins:_0x21c2dd,reply:_0x15a53a})=>{const _0x8ce7cd=_0x1c050d;try{if(!_0x36cfb6)return _0x15a53a(_0x8ce7cd(0x24f));if(!_0x52d1d0)return _0x15a53a(_0x8ce7cd(0x247));if(!_0x21c2dd)return _0x15a53a(_0x8ce7cd(0x226));const _0xe1d88e=_0x123e9f?.[_0x8ce7cd(0x26f)]||_0x164d25['mentioned']?.[0x0];if(!_0xe1d88e)return _0x15a53a(_0x8ce7cd(0x1cc));await _0x2d6442[_0x8ce7cd(0x21f)](_0x1e15ef,[_0xe1d88e],_0x8ce7cd(0x274)),await _0x15a53a('@'+_0xe1d88e['split']('@')[0x0]+'\x20has\x20been\x20demoted\x20to\x20member.',{'mentions':[_0xe1d88e]});}catch(_0x3349a0){console[_0x8ce7cd(0x1ca)](_0x3349a0),_0x15a53a(String(_0x3349a0));}}),gmd({'pattern':'add','desc':_0x1c050d(0x1e3),'category':_0x1c050d(0x205),'react':'➕','filename':__filename},async(_0xad43a2,_0x3f3fe8,_0x42213c,{from:_0x1ebbe2,quoted:_0x2edfeb,body:_0x28365d,isCmd:_0x38d0b3,command:_0x1b58bb,args:_0x43bd72,q:_0x31dde4,isGroup:_0x3c5583,sender:_0x861ba1,senderNumber:_0x2c179e,botNumber2:_0x1df04a,botNumber:_0x7826ce,pushname:_0x1ec0f6,isMe:_0x4765d7,isOwner:_0x401d87,groupMetadata:_0x2e1f1b,groupName:_0x58cccf,participants:_0x4134c5,groupAdmins:_0x274a12,isBotAdmins:_0x3de5a5,isAdmins:_0x5106ad,reply:_0x226156})=>{const _0x3ae491=_0x1c050d;try{if(!_0x3c5583)return _0x226156(_0x3ae491(0x24f));if(!_0x3de5a5)return _0x226156(_0x3ae491(0x247));if(!_0x5106ad)return _0x226156('You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.');const _0x3fba85=_0x31dde4[_0x3ae491(0x244)]('\x20')[0x0];if(!_0x3fba85)return _0x226156(_0x3ae491(0x24e));await _0xad43a2['groupParticipantsUpdate'](_0x1ebbe2,[_0x3fba85+_0x3ae491(0x235)],_0x3ae491(0x23a)),await _0x226156('@'+_0x3fba85+_0x3ae491(0x222),{'mentions':[_0x3fba85+_0x3ae491(0x235)]}),await _0x42213c[_0x3ae491(0x22b)]('✅');}catch(_0x44aec3){console['log'](_0x44aec3),_0x226156(''+_0x44aec3);}}),gmd({'pattern':_0x1c050d(0x1ef),'alias':['enter',_0x1c050d(0x262)],'desc':_0x1c050d(0x275),'category':_0x1c050d(0x205),'react':'🔗','filename':__filename},async(_0x33f792,_0x4674c3,_0x400733,{from:_0x58d591,isGroup:_0x2991a0,pushname:_0x20bd78,isOwner:_0x361e95,q:_0x170133,args:_0x1b3635,isAdmins:_0x12b9d8,isBotAdmins:_0x278e56,text:_0x1b677d,reply:_0x126be3})=>{const _0xc1c7d8=_0x1c050d,_0x50f4fd=_0x2461d8=>{try{return new URL(_0x2461d8),!![];}catch(_0x4c724e){return![];}};try{if(_0x2991a0)return _0x126be3(_0xc1c7d8(0x20e));if(!_0x361e95)return _0x126be3(_0xc1c7d8(0x1c3));if(!_0x170133)return _0x126be3('*Enter\x20The\x20Group\x20Link!*');if(!_0x50f4fd(_0x170133)&&!_0x170133[_0xc1c7d8(0x250)](_0xc1c7d8(0x1cb)))return _0xc1c7d8(0x1fc);const _0x20674c=_0x170133[_0xc1c7d8(0x244)](_0xc1c7d8(0x21e))[0x1];console[_0xc1c7d8(0x264)](_0x20674c);try{return await _0x33f792['groupAcceptInvite'](_0x20674c),_0x126be3('Successfully\x20joined\x20the\x20group!');}catch(_0x2c3e02){return console[_0xc1c7d8(0x1ca)](_0x2c3e02),_0x126be3(_0xc1c7d8(0x256));}}catch(_0x327ce2){return console[_0xc1c7d8(0x1ca)](_0x327ce2),_0x126be3(_0xc1c7d8(0x1b1)+_0x327ce2['message']);}}),gmd({'pattern':_0x1c050d(0x1c8),'alias':[_0x1c050d(0x1c6)],'desc':'Remove\x20a\x20Member\x20from\x20the\x20Group.','category':_0x1c050d(0x205),'react':'🚫','filename':__filename},async(_0x5aa477,_0x5be20c,_0x3e1e6e,{from:_0x48476c,quoted:_0x4fb4c5,pushname:_0x5eed13,isGroup:_0x580cd7,isBotAdmins:_0x19c27a,isAdmins:_0x10490c,reply:_0x1e4fb7})=>{const _0x1c6639=_0x1c050d;try{if(!_0x580cd7)return _0x1e4fb7(_0x1c6639(0x24f));if(!_0x19c27a)return _0x1e4fb7(_0x1c6639(0x247));if(!_0x10490c)return _0x1e4fb7(_0x1c6639(0x226));const _0x333817=_0x4fb4c5?.[_0x1c6639(0x26f)]||_0x3e1e6e[_0x1c6639(0x1be)]?.[0x0];if(!_0x333817)return _0x1e4fb7(_0x1c6639(0x1ea));await _0x5aa477[_0x1c6639(0x21f)](_0x48476c,[_0x333817],'remove'),await _0x1e4fb7('@'+_0x333817['split']('@')[0x0]+_0x1c6639(0x1f2),{'mentions':[_0x333817]});}catch(_0x3b3dd8){console[_0x1c6639(0x1ca)](_0x3b3dd8),_0x1e4fb7(String(_0x3b3dd8));}}),gmd({'pattern':_0x1c050d(0x25d),'alias':['leave',_0x1c050d(0x1b4)],'desc':_0x1c050d(0x234),'category':'group','react':'👋','filename':__filename},async(_0x558c0c,_0x447b1f,_0x32502f,{from:_0x35c2d2,isGroup:_0x225dd7,pushname:_0x268457,isOwner:_0x1d5a35,isBotAdmins:_0x38b03f,reply:_0x5b9b69})=>{const _0x1f6887=_0x1c050d,_0x2adc72=config['OWNER_NUMBER'];try{if(!_0x225dd7)return _0x5b9b69('This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group.');if(_0x32502f[_0x1f6887(0x26f)]!==_0x2adc72)return _0x5b9b69(_0x1f6887(0x280));await _0x558c0c[_0x1f6887(0x21c)](_0x35c2d2,{'text':'Goodbye!\x20I\x20am\x20leaving\x20the\x20group.'}),await _0x558c0c[_0x1f6887(0x21f)](_0x35c2d2,[_0x558c0c['user']['id']],_0x1f6887(0x1c8)),console[_0x1f6887(0x264)]('Bot\x20left\x20the\x20group:\x20'+_0x35c2d2);}catch(_0x17276b){console[_0x1f6887(0x1ca)](_0x17276b),_0x5b9b69(_0x1f6887(0x1d4));}}),gmd({'pattern':_0x1c050d(0x203),'alias':['unlock',_0x1c050d(0x25b)],'react':'🔊','desc':_0x1c050d(0x1f0),'category':_0x1c050d(0x205),'filename':__filename},async(_0x469dd2,_0x1eea5a,_0x5432fe,{from:_0x67b356,l:_0x45ed61,quoted:_0x4784b8,body:_0xa0e96a,isCmd:_0x5a9d29,command:_0x4d85ff,args:_0x1dd8e3,q:_0x3fab1b,isGroup:_0x46ec1a,sender:_0x52dff2,senderNumber:_0x4bec1f,botNumber2:_0x5d52e9,botNumber:_0x259b63,pushname:_0xa63e05,isMe:_0x3dfaf8,isOwner:_0x52e330,groupMetadata:_0x43f1bb,groupName:_0x360e65,participants:_0x236296,isItzcp:_0x23de93,groupAdmins:_0xeff087,isBotAdmins:_0x4db0e4,isAdmins:_0x453e94,reply:_0x120258})=>{const _0x409f0b=_0x1c050d;try{if(!_0x52e330||!_0x453e94)return;if(!_0x5432fe[_0x409f0b(0x202)])return _0x120258(mg[_0x409f0b(0x207)]);if(!_0x4db0e4)return _0x120258(mg['needbotadmins']);await _0x469dd2[_0x409f0b(0x24c)](_0x5432fe[_0x409f0b(0x229)],_0x409f0b(0x260));const _0x1dc418=await _0x469dd2[_0x409f0b(0x21c)](_0x5432fe['chat'],{'text':_0x409f0b(0x206)},{'quoted':_0x1eea5a});return await _0x469dd2[_0x409f0b(0x21c)](_0x5432fe[_0x409f0b(0x229)],{'react':{'text':'🔊','key':_0x1dc418[_0x409f0b(0x1d5)]}});}catch(_0x1b1908){console[_0x409f0b(0x264)](_0x1b1908),_0x120258(_0x409f0b(0x251));}}),gmd({'pattern':_0x1c050d(0x263),'alias':['link',_0x1c050d(0x21a),_0x1c050d(0x1ee)],'desc':_0x1c050d(0x259),'category':_0x1c050d(0x205),'react':'🔗','filename':__filename},async(_0x822fb9,_0x2bcdac,_0x39b4f7,{from:_0x59c2df,isGroup:_0x21df2d,pushname:_0x4a6533,isAdmins:_0x398b01,isBotAdmins:_0x32c4dc,reply:_0x5ef7df})=>{const _0x10265c=_0x1c050d;try{if(!_0x21df2d)return _0x5ef7df(_0x10265c(0x24f));if(!_0x398b01)return _0x5ef7df(_0x10265c(0x1f4));if(!_0x32c4dc)return _0x5ef7df('Bot\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.');const _0x3bd845=await _0x822fb9[_0x10265c(0x225)](_0x59c2df),_0x15733e=_0x10265c(0x21e)+_0x3bd845;return _0x5ef7df(_0x10265c(0x283)+_0x15733e);}catch(_0x54b968){console[_0x10265c(0x1ca)](_0x54b968),_0x5ef7df('An\x20error\x20occurred:\x20'+_0x54b968[_0x10265c(0x1bd)]);}}),gmd({'pattern':_0x1c050d(0x285),'alias':[_0x1c050d(0x23f),'close'],'react':'🔊','desc':_0x1c050d(0x238),'category':_0x1c050d(0x205),'filename':__filename},async(_0x552ab7,_0x27b361,_0x155220,{from:_0x7bc8da,l:_0x4ab346,quoted:_0x357cd9,body:_0x39e30a,isCmd:_0x597df4,command:_0x2bdb69,args:_0xc61774,q:_0x447e5a,isGroup:_0x54d0a4,sender:_0x20c72e,senderNumber:_0x2f02c8,botNumber2:_0x3cd3ed,botNumber:_0x57a687,pushname:_0x5e8146,isMe:_0x12aeb2,isOwner:_0x25d82e,groupMetadata:_0x2fdde0,groupName:_0x52f7b9,participants:_0x45b577,isItzcp:_0x13c139,groupAdmins:_0x2db0c6,isBotAdmins:_0x426ab0,isAdmins:_0x5b6c0e,reply:_0x1d6a93})=>{const _0x2ed12f=_0x1c050d;try{if(!_0x25d82e||!_0x5b6c0e)return;if(!_0x155220['isGroup'])return _0x1d6a93(mg[_0x2ed12f(0x207)]);if(!_0x426ab0)return _0x1d6a93(mg[_0x2ed12f(0x215)]);await _0x552ab7[_0x2ed12f(0x24c)](_0x155220[_0x2ed12f(0x229)],'announcement');const _0x137e42=await _0x552ab7[_0x2ed12f(0x21c)](_0x155220[_0x2ed12f(0x229)],{'text':_0x2ed12f(0x279)},{'quoted':_0x27b361});return await _0x552ab7[_0x2ed12f(0x21c)](_0x155220[_0x2ed12f(0x229)],{'react':{'text':'🔇','key':_0x137e42['key']}});}catch(_0x243eb7){console[_0x2ed12f(0x264)](_0x243eb7),_0x1d6a93(_0x2ed12f(0x251));}}),gmd({'pattern':_0x1c050d(0x211),'alias':[_0x1c050d(0x1b5),_0x1c050d(0x227)],'desc':_0x1c050d(0x1df),'category':_0x1c050d(0x205),'react':_0x1c050d(0x1d1),'filename':__filename},async(_0x42c1e2,_0x12e587,_0x49835e,{from:_0x556a78,quoted:_0x3901fe,body:_0x36f88a,isCmd:_0xff031c,command:_0x495690,args:_0x145672,q:_0x4617cf,isGroup:_0x2a2eb1,sender:_0x1d227c,senderNumber:_0x270eaa,botNumber2:_0xcf692d,botNumber:_0x3942f3,pushname:_0x2594d0,isMe:_0x51793f,isOwner:_0x1cd98c,groupMetadata:_0x513e16,groupName:_0x3d9264,participants:_0x25dd1f,groupAdmins:_0x376a7a,isBotAdmins:_0x506ae6,isAdmins:_0x31b466,reply:_0x7b7f64})=>{const _0x106d18=_0x1c050d;try{if(!_0x2a2eb1)return _0x7b7f64(_0x106d18(0x24f));const _0x41a2cf=await _0x42c1e2[_0x106d18(0x271)](_0x556a78,_0x106d18(0x23d));await _0x42c1e2['sendMessage'](_0x556a78,{'image':{'url':_0x41a2cf},'caption':'Here\x20is\x20the\x20Group\x20Profile\x20Picture'});}catch(_0x28a1ee){console['log'](_0x28a1ee),_0x7b7f64(''+_0x28a1ee);}}),gmd({'pattern':_0x1c050d(0x1cd),'alias':[_0x1c050d(0x23c),'pp'],'desc':_0x1c050d(0x27b),'category':_0x1c050d(0x1e6),'react':_0x1c050d(0x1d1),'filename':__filename},async(_0x51e9f7,_0x3e9057,_0x5c502f,{from:_0x510a61,pushname:_0x31a6d3,isMe:_0x4b177b,botNumber:_0x148229,args:_0x318514,q:_0x9759a3,quoted:_0x4d98fc,sender:_0x420e8b,reply:_0x5decab})=>{const _0x2cdf46=_0x1c050d;try{let _0x182276=_0x4d98fc?.[_0x2cdf46(0x26f)]||_0x5c502f[_0x2cdf46(0x267)]&&_0x5c502f[_0x2cdf46(0x267)][0x0]||_0x420e8b;if(_0x182276===_0x148229)return _0x5decab(_0x2cdf46(0x20d));let _0x782ca2;try{const _0x5f135a=await _0x51e9f7[_0x2cdf46(0x271)](_0x182276,'image');_0x782ca2=await getBuffer(_0x5f135a);}catch(_0xb54a3e){return console[_0x2cdf46(0x1ca)](_0x2cdf46(0x218),_0xb54a3e),_0x5decab(_0x2cdf46(0x26e));}const _0x30bc6d={'image':_0x782ca2,'caption':_0x2cdf46(0x240),'mentions':[_0x182276]};await _0x51e9f7[_0x2cdf46(0x21c)](_0x510a61,_0x30bc6d);}catch(_0x4972ff){console[_0x2cdf46(0x1ca)]('Error\x20in\x20getpp:',_0x4972ff),_0x5decab(_0x2cdf46(0x249));}}),gmd({'pattern':_0x1c050d(0x254),'alias':[_0x1c050d(0x1dd),_0x1c050d(0x1ec),_0x1c050d(0x212)],'desc':_0x1c050d(0x22e),'category':_0x1c050d(0x205),'react':'💬','filename':__filename},async(_0x13c1c8,_0x823788,_0x2a7b86,{from:_0x2d6ae3,pushname:_0x1f7c69,isOwner:_0x1c5556,reply:_0xb9ebcf,args:_0x13577c})=>{const _0x52c0d2=_0x1c050d;try{if(!_0x1c5556)return _0xb9ebcf(_0x52c0d2(0x1f6));const _0x2e2d88=_0x13577c[_0x52c0d2(0x208)](0x0,_0x13577c[_0x52c0d2(0x248)]-0x1)[_0x52c0d2(0x1ef)]('\x20'),_0xc41b5f=_0x13577c[_0x52c0d2(0x208)](0x1);if(!_0x2e2d88)return _0xb9ebcf('❌\x20Please\x20provide\x20a\x20group\x20name.');const _0x749127=await _0x13c1c8[_0x52c0d2(0x277)](_0x2e2d88,_0xc41b5f);await new Promise(_0x182273=>setTimeout(_0x182273,0x1388));const _0x35c7a7=await _0x13c1c8['groupInviteCode'](_0x749127['id']),_0x2f65a8=_0x52c0d2(0x21e)+_0x35c7a7;_0xb9ebcf(_0x52c0d2(0x22c)+_0x2e2d88+_0x52c0d2(0x1f5)+_0x2f65a8);}catch(_0x2cf65b){console[_0x52c0d2(0x1ca)](_0x2cf65b),_0xb9ebcf(_0x52c0d2(0x1e4)+_0x2cf65b[_0x52c0d2(0x1bd)]);}}),gmd({'pattern':_0x1c050d(0x252),'alias':['setdesc'],'desc':_0x1c050d(0x1f1),'category':'group','react':'📜','filename':__filename},async(_0x10b8fd,_0x56edfe,_0x2bfc6a,{from:_0x334a4a,isOwner:_0x6c2c01,pushname:_0x644db7,reply:_0x5f1570,args:_0x3ca154,isGroup:_0x55118d})=>{const _0x24c782=_0x1c050d;if(!_0x6c2c01||!_0x55118d)return _0x5f1570('❌\x20You\x20must\x20be\x20in\x20a\x20group\x20and\x20the\x20owner\x20to\x20use\x20this\x20command!');try{const _0x4cac17=_0x3ca154[_0x24c782(0x1ef)]('\x20');await _0x10b8fd[_0x24c782(0x216)](_0x334a4a,_0x4cac17),_0x5f1570('📜\x20Group\x20description\x20updated\x20successfully!');}catch(_0x5d9ee7){_0x5f1570(_0x24c782(0x213)+_0x5d9ee7[_0x24c782(0x1bd)]);}}),gmd({'pattern':_0x1c050d(0x27f),'alias':[_0x1c050d(0x268),'setsubject'],'desc':_0x1c050d(0x1b0),'category':_0x1c050d(0x205),'react':'📛','filename':__filename},async(_0x56026d,_0x4678e0,_0x4cbe3b,{from:_0x109393,isOwner:_0x37984d,pushname:_0x476805,reply:_0x81b229,args:_0x573ee2,isGroup:_0x2081e1})=>{const _0xd1f1a2=_0x1c050d;if(!_0x37984d||!_0x2081e1)return _0x81b229(_0xd1f1a2(0x1ff));try{const _0x4caa1c=_0x573ee2[_0xd1f1a2(0x1ef)]('\x20');await _0x56026d[_0xd1f1a2(0x1da)](_0x109393,_0x4caa1c),_0x81b229('📛\x20Group\x20subject\x20updated\x20successfully\x20to\x20\x22'+_0x4caa1c+'\x22!');}catch(_0x4ce421){_0x81b229(_0xd1f1a2(0x281)+_0x4ce421['message']);}}),gmd({'pattern':'revoke','alias':[_0x1c050d(0x224)],'desc':_0x1c050d(0x1d0),'category':_0x1c050d(0x205),'react':'🔗','filename':__filename},async(_0x598125,_0x2f1e82,_0x593551,{from:_0x425462,isOwner:_0x47055d,pushname:_0x2ed578,reply:_0x44f8d2,isGroup:_0x5ad6e3})=>{const _0x41dfd5=_0x1c050d;if(!_0x47055d||!_0x5ad6e3)return _0x44f8d2('❌\x20You\x20must\x20be\x20in\x20a\x20group\x20and\x20the\x20owner\x20to\x20use\x20this\x20command!');try{const _0x2cf25b=await _0x598125[_0x41dfd5(0x200)](_0x425462),_0x38d419='https://chat.whatsapp.com/'+_0x2cf25b;_0x44f8d2(_0x41dfd5(0x26a)+_0x38d419);}catch(_0x38d4b2){_0x44f8d2(_0x41dfd5(0x204)+_0x38d4b2[_0x41dfd5(0x1bd)]);}}),gmd({'pattern':_0x1c050d(0x243),'alias':[_0x1c050d(0x242),_0x1c050d(0x270),_0x1c050d(0x1db),_0x1c050d(0x20c),_0x1c050d(0x1de)],'desc':_0x1c050d(0x1bc),'use':_0x1c050d(0x1b7),'react':'✔️','category':_0x1c050d(0x205),'filename':__filename},async(_0x32f204,_0x150d0f,_0x379e9c,{from:_0x492954,isGroup:_0x136cfe,reply:_0x4f1252})=>{const _0x2041be=_0x1c050d;if(!_0x136cfe)return await _0x4f1252(_0x2041be(0x24b));const _0x46459e=_0x32f204['user'][_0x2041be(0x241)],_0x4ebd3d=await _0x32f204[_0x2041be(0x266)](_0x492954),_0x3ab779=_0x4ebd3d[_0x2041be(0x1b8)]['some'](_0x3be08a=>_0x3be08a['jid']===_0x46459e&&_0x3be08a[_0x2041be(0x236)]);if(!_0x3ab779)return await _0x4f1252(_0x2041be(0x27c));try{const _0x4ea754=await _0x32f204[_0x2041be(0x1d3)](_0x492954);if(_0x4ea754[_0x2041be(0x248)]===0x0)return await _0x4f1252('No\x20pending\x20join\x20requests.');for(let _0x33ac08 of _0x4ea754){await _0x32f204[_0x2041be(0x1c4)](_0x492954,[_0x33ac08[_0x2041be(0x241)]],_0x2041be(0x243));}return await _0x4f1252('Accepted\x20all\x20pending\x20join\x20request(s).');await _0x379e9c[_0x2041be(0x22b)]('✅');}catch(_0x432ff1){return console[_0x2041be(0x1ca)](_0x2041be(0x1f7),_0x432ff1),await _0x4f1252(_0x2041be(0x1c9));}}),gmd({'pattern':_0x1c050d(0x27a),'alias':['reject-all',_0x1c050d(0x1b6),_0x1c050d(0x1e1),_0x1c050d(0x255),_0x1c050d(0x286)],'desc':_0x1c050d(0x272),'use':_0x1c050d(0x1fd),'react':'❌','category':_0x1c050d(0x205),'filename':__filename},async(_0x46efb2,_0xf1e241,_0x412f5f,{from:_0x593b7a,isGroup:_0x4c17a9,reply:_0x4dbc56,match:_0x1aa34c})=>{const _0x30d089=_0x1c050d;if(!_0x4c17a9)return await _0x4dbc56(_0x30d089(0x24b));const _0x1ff246=_0x46efb2[_0x30d089(0x22a)][_0x30d089(0x241)],_0xf5e321=await _0x46efb2[_0x30d089(0x266)](_0x593b7a),_0x45afe9=_0xf5e321[_0x30d089(0x1b8)]['some'](_0xb5f1e4=>_0xb5f1e4['jid']===_0x1ff246&&_0xb5f1e4['admin']);if(!_0x45afe9)return await _0x4dbc56(_0x30d089(0x27c));try{const _0x590a8f=await _0x46efb2[_0x30d089(0x1d3)](_0x593b7a);if(_0x590a8f[_0x30d089(0x248)]===0x0)return await _0x4dbc56(_0x30d089(0x232));if(!_0x1aa34c)return await _0x4dbc56('Provide\x20the\x20number(s)\x20of\x20the\x20request(s)\x20to\x20reject,\x20separated\x20by\x20commas.');const _0x5724ac=_0x1aa34c[_0x30d089(0x244)](',')[_0x30d089(0x26d)](_0x5c164f=>parseInt(_0x5c164f[_0x30d089(0x265)]())-0x1),_0x1fd5bc=_0x5724ac[_0x30d089(0x278)](_0x393aa6=>_0x393aa6>=0x0&&_0x393aa6<_0x590a8f[_0x30d089(0x248)]);if(_0x1fd5bc[_0x30d089(0x248)]===0x0)return await _0x4dbc56('Invalid\x20request\x20number(s).');for(let _0x7c55d6 of _0x1fd5bc){await _0x46efb2[_0x30d089(0x1c4)](_0x593b7a,[_0x590a8f[_0x7c55d6][_0x30d089(0x241)]],_0x30d089(0x27a));}return await _0x4dbc56(_0x30d089(0x261)+_0x1fd5bc[_0x30d089(0x248)]+_0x30d089(0x210));}catch(_0x45b0e6){return console['error'](_0x30d089(0x1d7),_0x45b0e6),await _0x4dbc56(_0x30d089(0x1dc));}}),gmd({'pattern':_0x1c050d(0x24a),'alias':['req','listrequests',_0x1c050d(0x1d6),_0x1c050d(0x23e)],'desc':_0x1c050d(0x1e8),'use':_0x1c050d(0x1b3),'react':'📝','category':_0x1c050d(0x205),'filename':__filename},async(_0x1a98d2,_0x9ad156,_0x9a8bfc,{from:_0x51ea35,isGroup:_0x26eb7f,reply:_0x9f5796})=>{const _0x50c2da=_0x1c050d;if(!_0x26eb7f)return await _0x9f5796('This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups.');const _0x28b66e=_0x1a98d2[_0x50c2da(0x22a)][_0x50c2da(0x241)],_0x3b5903=await _0x1a98d2[_0x50c2da(0x266)](_0x51ea35),_0x535319=_0x3b5903['participants'][_0x50c2da(0x1bf)](_0x5b3f08=>_0x5b3f08[_0x50c2da(0x241)]===_0x28b66e&&_0x5b3f08[_0x50c2da(0x236)]);if(!_0x535319)return await _0x9f5796(_0x50c2da(0x27c));try{const _0x1a1c37=await _0x1a98d2[_0x50c2da(0x1d3)](_0x51ea35);if(_0x1a1c37[_0x50c2da(0x248)]===0x0)return await _0x9f5796(_0x50c2da(0x232));let _0x3dcca6='Pending\x20Join\x20Requests:\x0a\x0a';return _0x1a1c37[_0x50c2da(0x287)]((_0x34276b,_0xc5842c)=>{const _0x1314ce=_0x50c2da;_0x3dcca6+=_0xc5842c+0x1+_0x1314ce(0x273)+_0x34276b[_0x1314ce(0x241)]['split']('@')[0x0]+'\x0a';}),await _0x9f5796(_0x3dcca6,{'mentions':_0x1a1c37[_0x50c2da(0x26d)](_0x484e62=>_0x484e62[_0x50c2da(0x241)])});}catch(_0x3bd6ed){return console[_0x50c2da(0x1ca)](_0x50c2da(0x1e5),_0x3bd6ed),await _0x9f5796('Failed\x20to\x20retrieve\x20join\x20requests.\x20Please\x20try\x20again\x20later.');}}),gmd({'pattern':_0x1c050d(0x1fb),'alias':[_0x1c050d(0x1cf),'groupadmins'],'desc':_0x1c050d(0x288),'react':'👥','category':_0x1c050d(0x205),'filename':__filename},async(_0x5c922d,_0x45a6e3,_0x224413,{from:_0x205645,q:_0x305ed5,isGroup:_0x4d766f,groupMetadata:_0x5998ae,groupName:_0x28e6b0,participants:_0x2d803d,groupAdmins:_0x47a21b,isBotAdmins:_0x595b60,isAdmins:_0x2ee03a,reply:_0x5bb856})=>{const _0x2b0766=_0x1c050d;try{if(!_0x4d766f)return _0x5bb856(_0x2b0766(0x24f));if(!_0x595b60)return _0x5bb856(_0x2b0766(0x247));if(!_0x2ee03a)return _0x5bb856(_0x2b0766(0x226));const _0xfc3846=await _0x5c922d[_0x2b0766(0x266)](_0x205645),_0x1bfe7d=_0xfc3846['participants'][_0x2b0766(0x278)](_0xd3108d=>_0xd3108d[_0x2b0766(0x236)]===_0x2b0766(0x236)||_0xd3108d[_0x2b0766(0x236)]===_0x2b0766(0x1d2))['map'](_0x175c3b=>'@'+_0x175c3b['id'][_0x2b0766(0x244)]('@')[0x0])[_0x2b0766(0x1ef)]('\x0a');return await _0x5c922d[_0x2b0766(0x21c)](_0x205645,{'text':_0x2b0766(0x1b2)+_0x1bfe7d,'mentions':_0xfc3846[_0x2b0766(0x1b8)][_0x2b0766(0x278)](_0x41535c=>_0x41535c[_0x2b0766(0x236)]===_0x2b0766(0x236)||_0x41535c[_0x2b0766(0x236)]===_0x2b0766(0x1d2))[_0x2b0766(0x26d)](_0x8a9dc8=>_0x8a9dc8['id'])},{'quoted':_0x45a6e3});}catch(_0x3dceb1){console[_0x2b0766(0x264)](_0x3dceb1),await _0x224413['react']('❌'),_0x5bb856(_0x2b0766(0x1f8)+_0x3dceb1[_0x2b0766(0x1bd)]);}}),gmd({'pattern':_0x1c050d(0x20b),'alias':[_0x1c050d(0x223),'tg'],'desc':_0x1c050d(0x20a),'react':'👥','category':_0x1c050d(0x205),'filename':__filename},async(_0x5d4d98,_0x5858bf,_0x2ea4ce,{from:_0x40ef6e,q:_0x29b458,isGroup:_0x538240,isAdmins:_0x74e23,isOwner:_0x26da46,reply:_0x3cd7a1})=>{const _0x4f046e=_0x1c050d;try{if(!_0x538240)return _0x3cd7a1(_0x4f046e(0x1bb));if(!_0x74e23&&!_0x26da46&&_0x2ea4ce[_0x4f046e(0x26f)]!==_0x5d4d98['user']['id'])return _0x3cd7a1(_0x4f046e(0x1c1));const _0x3a7683=await _0x5d4d98[_0x4f046e(0x266)](_0x40ef6e),_0x1308fe=_0x3a7683[_0x4f046e(0x1b8)],_0x255378=_0x1308fe[_0x4f046e(0x26d)](_0x42fb7c=>_0x42fb7c['id']);let _0x130733=['📢','🔊','🌐','🔰',_0x4f046e(0x237),'🤍','🖤','🩵','📝','💗','🔖','🪩','📦','🎉','🛡️','💸','⏳','🗿','🚀','🎧','🪀','⚡','🚩','🍁',_0x4f046e(0x253),'👻','⚠️','🔥'],_0x11a5aa=_0x130733[Math[_0x4f046e(0x230)](Math[_0x4f046e(0x1c2)]()*_0x130733[_0x4f046e(0x248)])],_0x417b21=_0x29b458||_0x4f046e(0x1e2),_0x3e3567=_0x4f046e(0x23b)+_0x3a7683['subject']+_0x4f046e(0x1fa)+_0x1308fe[_0x4f046e(0x248)]+'*\x0a▢\x20Message:\x20*'+_0x417b21+'*\x0a\x0a┌───⊷\x20*MENTIONS*\x0a';for(let _0x5a10ce of _0x1308fe){if(!_0x5a10ce['id'])continue;_0x3e3567+=_0x11a5aa+'\x20@'+_0x5a10ce['id'][_0x4f046e(0x244)]('@')[0x0]+'\x0a';}_0x3e3567+='└──✪\x20JAWAD\x20┃\x20MD\x20✪──',await _0x5d4d98['sendMessage'](_0x40ef6e,{'text':_0x3e3567,'mentions':_0x255378},{'quoted':_0x5858bf}),await _0x2ea4ce['react']('✅');}catch(_0x3ed3e2){return console[_0x4f046e(0x1ca)](_0x3ed3e2),await _0x2ea4ce['react']('❌'),_0x3cd7a1(_0x4f046e(0x1b1)+_0x3ed3e2['message']);}});
+const { gmd, sleep, config, getBuffer, commands } = require('../lib'), 
+      { WA_DEFAULT_EPHEMERAL, 
+       jidNormalizedUser, 
+       generateWAMessageFromContent, 
+       getContentType, 
+       generateForwardMessageContent, 
+       downloadContentFromMessage, 
+       jidDecode } = require('@whiskeysockets/baileys'), 
+      { PREFIX: prefix } = config, 
+      fs = require('fs'), 
+      path = require('path');
+let userWarnings = {}; 
+
+
+gmd({
+  pattern: 'vcf',
+  alias: ['savecontact', 'scontact', 'savecontacts'],
+  desc: 'Save group participants as vCard',
+  category: 'group',
+  filename: __filename
+}, async (Gifted, mek, m, {
+  from, quoted, isGroup, isOwner, groupMetadata, reply
+}) => {
+  try {
+    if (!isGroup) return reply("This command is for groups only.");
+    if (!isOwner) return reply("*_This command is for the owner only_*");
+
+    const participants = groupMetadata?.participants || [];
+    let vcard = '';
+    let index = 1;
+
+    for (let member of participants) {
+      const id = member.id.split('@')[0];
+      vcard += `BEGIN:VCARD\nVERSION:3.0\nFN:[${index++}] +${id}\nTEL;type=CELL;type=VOICE;waid=${id}:+${id}\nEND:VCARD\n`;
+    }
+
+    const vcfFile = './contacts.vcf';
+    fs.writeFileSync(vcfFile, vcard.trim());
+
+    reply(`Saving ${participants.length} participants contact...`);
+    await sleep(1500);
+
+    await Gifted.sendMessage(from, {
+      document: fs.readFileSync(vcfFile),
+      mimetype: 'text/vcard',
+      fileName: 'jawad_tech.vcf',
+      caption: `\nDone saving.\nGroup Name: *${groupMetadata.subject}*\nContacts: *${participants.length}*\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ`,
+    }, { quoted: mek });
+
+    fs.unlinkSync(vcfFile); // Cleanup
+    await m.react('✅');
+  } catch (err) {
+    reply(`❌ Error: ${err.message}`);
+  }
+});
+
+
+gmd({
+    pattern: "tagadmin",
+    alais:["tagadmins"],
+    react: "🙀",
+    desc: "Tags all the Admins in the Group.",
+    category: "group",
+    filename: __filename,
+},           
+async(Gifted, mek, m,{from, prefix, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+        if (!isGroup) return reply(`This command is only for groups.`);
+        if (!isAdmins) return reply(`This command is only for group admin.`);
+        const admins = groupAdmins;
+        if (admins.length === 0) {
+            return reply('There are no admins in this group.');
+        }
+        let adminTagMessage = '*ALL ADMINS IN THE GROUP 🔳:*\n\n';
+        for (let admin of admins) {
+            adminTagMessage += `@${admin.split('@')[0]}\n`;
+        }
+        await Gifted.sendMessage(from, { text: adminTagMessage, mentions: admins }, { quoted: mek });
+    } catch (e) {
+        console.error('Error tagging admins:', e);
+        reply('you are not an admin.');
+    }
+})
+
+gmd({
+    pattern: "kickall",
+    alias: ["kik"],
+    desc: "Kicks all non-admin Members from the Group.",
+    react: "👏",
+    category: "group",
+    filename: __filename,
+},           
+async(Gifted, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+      if (!isAdmins) return reply(`Only Admins Allowed to use this Command!`)
+      if (!isOwner) return reply(`Owner Only Command!`)
+        if (!isGroup) return reply(`This command is only for groups!`);
+        if (!isBotAdmins) return reply(`Bot must be an admin to kick users!`);
+        const allParticipants = groupMetadata.participants;
+        const nonAdminParticipants = allParticipants.filter(member => !groupAdmins.includes(member.id));
+        if (nonAdminParticipants.length === 0) {
+            return reply('There are no non-admin members to kick.');
+        }
+        for (let participant of nonAdminParticipants) {
+            await Gifted.groupParticipantsUpdate(m.chat, [participant.id], "remove");
+     }
+        reply(`Successfully kicked all non-admin members from the group.`); 
+    } catch (e) {
+        console.error('Error kicking users:', e);
+        reply('An error occurred while trying to kick all members. Please try again.');
+    }
+});
+
+gmd({
+  pattern: "groupinfo", 
+  alias: ["ginfo","gcinfo"],
+  desc: "Get Information About the Group.", 
+  react: "👥", 
+  category: "group", 
+  filename: __filename
+}, async (Gifted, mek, m, { from, q, isGroup, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+  try {
+     if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+    const groupData = await Gifted.groupMetadata(from);
+    const groupInfo = "\n\n*Group Name:* " + groupData.subject + 
+      "\n\n*Group Description:* " + (groupData.desc || "No description") + 
+      "\n\n*Members:* " + groupData.participants.length + 
+      "\n\n*Created On:* " + new Date(groupData.creation * 1000).toLocaleString();
+    return await Gifted.sendMessage(from, {
+      text: groupInfo
+    }, {
+      quoted: mek
+    });
+  } catch (error) {
+    console.log(error);
+    await m.react('❌');
+    reply("Error: " + error.message); 
+  }
+});
+
+
+gmd({
+    pattern: "poll",
+    desc: "Creates Poll/Vote",
+    category: "group",
+    react: "🔎",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, args, isGroup, isAdmins, isBotAdmins, pushname, q, reply }) => {
+    try {
+       if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+       if (!q) {
+      return reply(`Hello _*${pushname}*_ , Please use the example: *${prefix}poll Do you love Jawad-Md:Yes, No, Not Sure*`);
+       } 
+
+       let [poll, opt] = q.split(":");
+
+      if (q.split(":").length < 2) {
+        return reply(`Incorrect format.\nExample: *.poll Do you love Jawad-Md:Yes, No, Not Sure*`);
+      }
+      let options = opt.split(',').map(option => option.trim());
+      await Gifted.sendMessage(from, {
+        poll: {
+          name: poll.trim(),
+          values: options,
+          selectableCount: 1 
+        }
+      }, { quoted: mek });
+      await m.react('✅'); 
+    } catch (e) {
+        console.log(e);
+        reply(`${e}`);
+    }
+});
+
+
+gmd({
+    pattern: "promote",
+    alias: ["admin", "toadmin", "makeadmin"],
+    desc: "Promote a Member to Admin.",
+    category: "group",
+    react: "🔼",
+    filename: __filename
+}, async (Gifted, mek, m, { from, pushname, quoted, isGroup, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+
+        const user = quoted?.sender || m.mentioned?.[0];
+        if (!user) return reply('Please tag or reply to a user to promote.');
+
+        await Gifted.groupParticipantsUpdate(from, [user], 'promote');
+        await reply(`@${user.split('@')[0]} has been promoted to admin.`, { mentions: [user] });
+    } catch (e) {
+        console.error(e);
+        reply(String(e));
+    }
+});
+
+gmd({
+    pattern: "demote",
+    desc: "Demote an Admin to Member.",
+    category: "group",
+    react: "🔽",
+    filename: __filename
+}, async (Gifted, mek, m, { from, pushname, quoted, isGroup, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+
+        const user = quoted?.sender || m.mentioned?.[0];
+        if (!user) return reply('Please tag or reply to a user to demote.');
+
+        await Gifted.groupParticipantsUpdate(from, [user], 'demote');
+        await reply(`@${user.split('@')[0]} has been demoted to member.`, { mentions: [user] });
+    } catch (e) {
+        console.error(e);
+        reply(String(e));
+    }
+});
+
+gmd({
+    pattern: "add",
+    desc: "Adds a Member to the Group.",
+    category: "group",
+    react: "➕",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.')
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.')
+        if (!isAdmins) return reply('You must be an admin to use this command.')
+
+        const user = q.split(' ')[0]
+        if (!user) return reply('Please provide a phone number to add.')
+
+        await Gifted.groupParticipantsUpdate(from, [`${user}@s.whatsapp.net`], 'add')
+        await reply(`@${user} has been added to the group.`, { mentions: [`${user}@s.whatsapp.net`] })
+        await m.react("✅"); 
+    } catch (e) {
+        console.log(e)
+        reply(`${e}`)
+    }
+})
+
+gmd({
+    pattern: "join",
+    alias: ["enter", "groupjoin"],
+    desc: "Join a Group Using an Invite Link.",
+    category: "group",
+    react: "🔗",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, isGroup, pushname, isOwner, q, args, isAdmins, isBotAdmins, text, reply }) => {
+    const isUrl = (string) => {
+  try {
+    new URL(string);
+    return true;
+  } catch (_) {
+    return false;
+  }
+};
+    try {
+        if (isGroup) return reply('This command cannot be used inside a group.');
+        if (!isOwner) return reply("*📛 THIS IS AN OWNER COMMAND*");
+
+    if (!q) return reply('*Enter The Group Link!*');
+    if (!isUrl(q) && !q.includes('whatsapp.com')) return('*INVALID LINK!*');
+
+         const result = q.split('https://chat.whatsapp.com/')[1];
+         console.log(result);
+        try {
+            await Gifted.groupAcceptInvite(result);
+            return reply(`Successfully joined the group!`);
+        } catch (error) {
+            console.error(error);
+            return reply('Failed to join the group. The link may be invalid or expired.');
+        }
+    } catch (e) {
+        console.error(e);
+        return reply(`An error occurred: ${e.message}`);
+    }
+});
+
+                        
+
+gmd({
+    pattern: "remove",
+    alias: ["kick"],
+    desc: "Remove a Member from the Group.",
+    category: "group",
+    react: "🚫",
+    filename: __filename
+}, async (Gifted, mek, m, { from, quoted, pushname, isGroup, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+
+        const user = quoted?.sender || m.mentioned?.[0];
+        if (!user) return reply('Please tag or reply to a user to remove.');
+
+        await Gifted.groupParticipantsUpdate(from, [user], 'remove');
+        await reply(`@${user.split('@')[0]} has been removed from the group.`, { mentions: [user] });
+    } catch (e) {
+        console.error(e);
+        reply(String(e));
+    }
+});
+
+gmd({
+    pattern: "left",
+    alias: ["leave", "exit"],
+    desc: "Makes the Bot Leave the Group.",
+    category: "group",
+    react: "👋",
+    filename: __filename
+}, async (Gifted, mek, m, { from, isGroup, pushname, isOwner, isBotAdmins, reply }) => {
+    const botNumber = config.OWNER_NUMBER;
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.');
+        if (m.sender !== botNumber) return reply('You must be the bot owner to make the bot leave the group.');
+        await Gifted.sendMessage(from, { text: 'Goodbye! I am leaving the group.' });
+        await Gifted.groupParticipantsUpdate(from, [Gifted.user.id], "remove");
+        console.log('Bot left the group: ' + from);
+    } catch (e) {
+        console.error(e);
+        reply('An error occurred while trying to make the bot leave the group.');
+    }
+});
+
+gmd({
+     pattern: "unmute",	
+     alias: ["unlock", "open"],
+     react: "🔊",
+     desc: "Unlock/Unmute Group.",
+     category: "group",
+     filename: __filename,
+},
+async (Gifted, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants,  isItzcp, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+    if (!isOwner || !isAdmins) return;  
+
+
+    if (!m.isGroup) return reply(mg.onlygroup);
+    if (!isBotAdmins) return reply(mg.needbotadmins);     
+  
+            await Gifted.groupSettingUpdate(m.chat, "not_announcement")
+           const mass = await Gifted.sendMessage(m.chat, { text: '*Group Chat Unmuted* 🔊' }, { quoted: mek });
+            return await Gifted.sendMessage(m.chat, { react: { text: '🔊', key: mass.key } });
+} catch(e) {
+console.log(e);
+reply('*Error !!*')     
+} 
+})
+
+gmd({
+    pattern: "invite",
+    alias: ["link", "grouplink", "glink"],
+    desc: "Generate and Send the Group's Invite Link.",
+    category: "group",
+    react: "🔗",
+    filename: __filename,
+},
+async (Gifted, mek, m, { from, isGroup, pushname, isAdmins, isBotAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isAdmins) return reply('Only group admins can use this command.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+
+        const groupInviteCode = await Gifted.groupInviteCode(from);
+        const groupInviteLink = `https://chat.whatsapp.com/${groupInviteCode}`;
+        return reply(`Here is the group's invite link:\n${groupInviteLink}`);
+    } catch (e) {
+        console.error(e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+
+gmd({
+     pattern: "mute",	
+     alias: ["lock", "close"],
+     react: "🔊",
+     desc: "Lock/Mute Group.",
+     category: "group",
+     filename: __filename,
+},
+async (Gifted, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants,  isItzcp, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+    if (!isOwner || !isAdmins) return;  
+
+
+    if (!m.isGroup) return reply(mg.onlygroup);
+    if (!isBotAdmins) return reply(mg.needbotadmins);     
+  
+            await Gifted.groupSettingUpdate(m.chat, "announcement")
+           const mass = await Gifted.sendMessage(m.chat, { text: '*Group Chat Muted* 🔇' }, { quoted: mek });
+            return await Gifted.sendMessage(m.chat, { react: { text: '🔇', key: mass.key } });
+} catch(e) {
+console.log(e);
+reply('*Error !!*')     
+} 
+})
+
+gmd({
+    pattern: "getpic",
+    alias: ["grouppp", "gcpp"],
+    desc: "Get the Group Profile Picture.",
+    category: "group",
+    react: "🖼️",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply('This command can only be used in a group.')
+        const ppUrl = await Gifted.profilePictureUrl(from, 'image');
+        await Gifted.sendMessage(from, { image: { url: ppUrl }, caption: 'Here is the Group Profile Picture' })
+    } catch (e) {
+        console.log(e)
+        reply(`${e}`)
+    }
+})
+
+gmd({
+    pattern: "getpp",
+    alias: ["userpp", "pp"],
+    desc: "Get a user's profile picture.",
+    category: "general",
+    react: "🖼️",
+    filename: __filename,
+}, async (Gifted, mek, m, { from, pushname, isMe, botNumber, args, q, quoted, sender, reply }) => {
+    try {
+        let user = 
+            quoted?.sender // ✅ 1. Replied message
+            || (m.mentionedJid && m.mentionedJid[0]) // ✅ 2. Mentioned user
+            || sender; // ✅ 3. Default to current sender
+
+        if (user === botNumber) return reply('_🙅🏻 I can\'t steal my own profile picture_');
+
+        let picture;
+        try {
+            const url = await Gifted.profilePictureUrl(user, "image");
+            picture = await getBuffer(url);
+        } catch (e) {
+            console.error('Error fetching profile picture URL:', e);
+            return reply('⚠️ Unable to fetch the profile picture. The user might not have one.');
+        }
+
+        const mess = {
+            image: picture,
+            caption: 'Here is the profile picture.',
+            mentions: [user],
+        };
+
+        await Gifted.sendMessage(from, mess);
+    } catch (error) {
+        console.error('Error in getpp:', error);
+        reply('⚠️ An error occurred while fetching the user profile picture.');
+    }
+});
+
+
+gmd({
+    pattern: "newgroup",
+    alias: ["newgc", "newgrp", "newgrpchat"],
+    desc: "Create a new Group and Send the Invite link",
+    category: "group",
+    react: "💬",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, pushname, isOwner, reply, args }) => {
+    try {
+        if (!isOwner) return reply("❌ You are not the owner!");
+        const groupName = args.slice(0, args.length - 1).join(" "); 
+        const participants = args.slice(1); 
+        if (!groupName) return reply("❌ Please provide a group name.");
+        const createdGroup = await Gifted.groupCreate(groupName, participants);
+        await new Promise(resolve => setTimeout(resolve, 5000));
+        const inviteCode = await Gifted.groupInviteCode(createdGroup.id);
+        const inviteLink = `https://chat.whatsapp.com/${inviteCode}`;
+        reply(`💬 Group "${groupName}" created successfully!\n\nHere is the invite link to your group: \n${inviteLink}`);
+    } catch (error) {
+        console.error(error);
+        reply(`❌ Error creating group: ${error.message}`);
+    }
+});
+
+
+gmd({
+    pattern: "setgdesc",
+    alias: ["setdesc"],
+    desc: "Update Group Description",
+    category: "group",
+    react: "📜",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, isOwner, pushname, reply, args, isGroup }) => {
+    if (!isOwner || !isGroup) return reply("❌ You must be in a group and the owner to use this command!");
+    try {
+        const newDescription = args.join(" ");
+        await Gifted.groupUpdateDescription(from, newDescription);
+        reply(`📜 Group description updated successfully!`);
+    } catch (error) {
+        reply(`❌ Error updating group description: ${error.message}`);
+    }
+});
+
+gmd({
+    pattern: "setgname",
+    alias: ["gname","setsubject"],
+    desc: "Update Group Name/Subject",
+    category: "group",
+    react: "📛",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, isOwner, pushname, reply, args, isGroup }) => {
+    if (!isOwner || !isGroup) return reply("❌ You must be in a group and the owner to use this command!");
+    try {
+        const newSubject = args.join(" ");
+        await Gifted.groupUpdateSubject(from, newSubject);
+        reply(`📛 Group subject updated successfully to "${newSubject}"!`);
+    } catch (error) {
+        reply(`❌ Error updating group subject: ${error.message}`);
+    }
+});
+
+gmd({
+    pattern: "revoke",
+    alias: ["reset"],
+    desc: "Revoke/Reset Group Invite Link",
+    category: "group",
+    react: "🔗",
+    filename: __filename
+},
+async (Gifted, mek, m, { from, isOwner, pushname, reply, isGroup }) => {
+    if (!isOwner || !isGroup) return reply("❌ You must be in a group and the owner to use this command!");
+    try {
+        const newCode = await Gifted.groupRevokeInvite(from);
+        const groupInviteLink = `https://chat.whatsapp.com/${newCode}`;
+        reply(`🔗 Group invite link revoked! New link: ${groupInviteLink}`);
+    } catch (error) {
+        reply(`❌ Error revoking invite link: ${error.message}`);
+    }
+});
+
+gmd({
+  pattern: "accept",
+  alias: ["accept-all", "approve", "approve-all", "acceptall", "approveall"],
+  desc: "Accept all Pending Group Join Requests",
+  use: ".accept",
+  react: "✔️",
+  category: "group",
+  filename: __filename
+}, async (Gifted, mek, m, { from, isGroup, reply }) => {
+  if (!isGroup) {
+    return await reply("This command can only be used in groups.");
+  }
+  
+  const userJid = Gifted.user.jid;
+  const groupMetadata = await Gifted.groupMetadata(from);
+  const isAdmin = groupMetadata.participants.some(participant => participant.jid === userJid && participant.admin);
+  if (!isAdmin) {
+    return await reply("I'm not an admin in this group.");
+  }
+  
+  try {
+    const pendingRequests = await Gifted.groupRequestParticipantsList(from);
+    if (pendingRequests.length === 0) {
+      return await reply("No pending join requests.");
+    }
+    
+    for (let request of pendingRequests) {
+      await Gifted.groupRequestParticipantsUpdate(from, [request.jid], "accept");
+    }
+    
+    return await reply(`Accepted all pending join request(s).`);
+    await m.react('✅');
+  } catch (error) {
+    console.error("Error accepting join requests:", error);
+    return await reply("Failed to accept join requests. Please try again later.");
+  }
+});
+
+gmd({
+  pattern: "rejectall",
+  alias: ["reject-all", "decline", "decline-all"],
+  desc: "Reject all Pending Group Join Request(s)",
+  use: ".rejectall",
+  react: "❌",
+  category: "group",
+  filename: __filename
+}, async (Gifted, mek, m, { from, isGroup, reply }) => {
+  if (!isGroup) {
+    return await reply("This command can only be used in groups.");
+  }
+
+  const userJid = Gifted.user.jid;
+  const groupMetadata = await Gifted.groupMetadata(from);
+  const isAdmin = groupMetadata.participants.some(
+    participant => participant.jid === userJid && participant.admin
+  );
+
+  if (!isAdmin) {
+    return await reply("I'm not an admin in this group.");
+  }
+
+  try {
+    const pendingRequests = await Gifted.groupRequestParticipantsList(from);
+    if (pendingRequests.length === 0) {
+      return await reply("No pending join requests.");
+    }
+
+    // Reject all pending requests at once
+    const allJids = pendingRequests.map(req => req.jid);
+    await Gifted.groupRequestParticipantsUpdate(from, allJids, "reject");
+
+    return await reply(`Rejected all ${pendingRequests.length} join request(s).`);
+  } catch (error) {
+    console.error("Error rejecting all join requests:", error);
+    return await reply("Failed to reject join requests. Please try again later.");
+  }
+});
+
+gmd({
+  pattern: "requests",
+  alias: ["req", "listrequests", "listall", "list-all"],
+  desc: "View all Pending Join Requests",
+  use: ".requests",
+  react: "📝",
+  category: "group",
+  filename: __filename
+}, async (Gifted, mek, m, { from, isGroup, reply }) => {
+  if (!isGroup) {
+    return await reply("This command can only be used in groups.");
+  }
+  const userJid = Gifted.user.jid;
+  const groupMetadata = await Gifted.groupMetadata(from);
+  const isAdmin = groupMetadata.participants.some(participant => participant.jid === userJid && participant.admin);
+  if (!isAdmin) {
+    return await reply("I'm not an admin in this group.");
+  }
+  try {
+    const pendingRequests = await Gifted.groupRequestParticipantsList(from);
+    if (pendingRequests.length === 0) {
+      return await reply("No pending join requests.");
+    }
+    let requestList = "Pending Join Requests:\n\n";
+    pendingRequests.forEach((request, index) => {
+      requestList += `${index + 1}. @${request.jid.split("@")[0]}\n`;
+    });
+    return await reply(requestList, { mentions: pendingRequests.map(request => request.jid) });
+  } catch (error) {
+    console.error("Error retrieving join requests:", error);
+    return await reply("Failed to retrieve join requests. Please try again later.");
+  }
+});
+
+
+gmd({
+  pattern: "admins",
+  alias: ["getadmins", "groupadmins"],
+  desc: "Get a List of Group Admins.",
+  react: "👥", 
+  category: "group", 
+  filename: __filename 
+}, async (Gifted, mek, m, { from, q, isGroup, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+  try {
+     if (!isGroup) return reply('This command can only be used in a group.');
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.');
+        if (!isAdmins) return reply('You must be an admin to use this command.');
+    const groupInfo = await Gifted.groupMetadata(from);
+
+    const adminList = groupInfo.participants.filter(participant => participant.admin === "admin" || participant.admin === "superadmin")
+      .map(admin => "@" + admin.id.split("@")[0])
+      .join("\n");
+
+    return await Gifted.sendMessage(from, {
+      text: "*Group Admins:*\n\n" + adminList,
+      mentions: groupInfo.participants.filter(participant => participant.admin === "admin" || participant.admin === "superadmin")
+        .map(admin => admin.id)
+    }, {
+      quoted: mek
+    });
+  } catch (error) {
+    console.log(error);
+    await m.react('❌');
+    reply("Error: " + error.message);
+  }
+});
+
+gmd({
+  pattern: "tagall",
+  alias: ["tag-all", "tg"],
+  desc: "Mention all Group Members.",
+  react: "👥",
+  category: "group",
+  filename: __filename
+}, async (Gifted, mek, m, { from, q, isGroup, isAdmins, isOwner, reply }) => {
+  try {
+    if (!isGroup) return reply("This command only works in groups.");
+
+    // Allow only Admins, Owner, or Bot itself
+    if (!isAdmins && !isOwner && m.sender !== Gifted.user.id) {
+      return reply("Only admins or the bot owner can use this command.");
+    }
+
+    const groupMetadata = await Gifted.groupMetadata(from);
+    const participants = groupMetadata.participants;
+    const participantIds = participants.map(p => p.id);
+
+    // Random emoji list
+    let emojisxd = ['📢','🔊','🌐','🔰','❤‍🩹','🤍','🖤','🩵','📝','💗','🔖','🪩','📦','🎉','🛡️','💸','⏳','🗿','🚀','🎧','🪀','⚡','🚩','🍁','🗣️','👻','⚠️','🔥'];
+    let randomEmoji = emojisxd[Math.floor(Math.random() * emojisxd.length)];
+
+    // Message setup
+    let message = q || "Attention Everyone"; // Default message if no custom text
+    let teks = `▢ Group : *${groupMetadata.subject}*\n▢ Members : *${participants.length}*\n▢ Message: *${message}*\n\n┌───⊷ *MENTIONS*\n`;
+
+    for (let mem of participants) {
+      if (!mem.id) continue;
+      teks += `${randomEmoji} @${mem.id.split('@')[0]}\n`;
+    }
+
+    teks += "└──✪ JAWAD ┃ MD ✪──";
+
+    // Send message with mentions
+    await Gifted.sendMessage(from, {
+      text: teks,
+      mentions: participantIds
+    }, { quoted: mek });
+
+    await m.react("✅");
+  } catch (error) {
+    console.error(error);
+    await m.react('❌');
+    return reply("An error occurred: " + error.message);
+  }
+});
+
+
