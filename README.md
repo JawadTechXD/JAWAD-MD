@@ -30,14 +30,14 @@
 
 ---
 
-## DEPLOY NEW VERSION
+## DEPLOY FREE ON VPS
 
-<p align="center"><strong>⚡ VERSION 3.0</strong></p>
+<p align="center"><strong>Limited Server 👻</strong></p>
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD/JAWAD-MD" target="_blank">
+  <a href="https://jawadtech-vps.onrender.com" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/🚀 Deploy_from_Free_VPS-ffI0XOI?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
       width="280"
     >
@@ -129,7 +129,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://khanmd-vps.onrender.com/" target="_blank">
+      <a href="https://jawadtech-vps.onrender.com" target="_blank">
         <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
