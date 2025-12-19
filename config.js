@@ -5,8 +5,7 @@ const fs = require('fs'),
       convertToBool = (text, fault = 'true') => text === fault;
 
 //add your session id
-
-global.session = "https://khanxmd-pair.onrender.com"; 
+IK~H4sIAAAAAAAAA5VU25KiSBD9l3rFGAUExIiOWETlZqPiBWFjH0oosOTaVSWKE/77BvZM9zzszva+FUnGyZPnZOZ3UFaYIge1YPwd1AQ3kKHuydoagTGYXJIEEdADMWQQjIE15dnJjgovN+zlfGHNTRGeb2EoFle65vz7cJnLvH/wGj57AY8eqC/HHEe/AWRDNjf3xSG9+vZtclPmYZbf+bWz1CXnbi2uDuKaQNdOvBa8gEeHCDHBZTqrT6hABOYOalcQk6/RN169+jSTDwexOFv2kk6V65oeL7a6zIW36JxJW06OJx5v7YOv0Z/tpWYac0jUtm+wTu/5bgPLgqZuNZDEkF4t89y/X+tD4tF3+hSnJYqtGJUMs/bLuhfG4rixY9s9xOk+4JLYLFsXmfPIODj8WyE1tHD7FjLEvfU14lDjdudZVfVFPQi1O/96bHfK3IEGTJfSRBN3NZe1OLsNtqNfia/Iz1nJ/o/u/uSs3nW9DwMv4FeDiNsUvq2td2HkExsG8TqbumqcU1v4ou6kOSPJwJvSOwWVqAj1KtjaFjRuxWUzmV+d9eKO9LfNIhWjT/qQXcjvWEpZGMP27U2w5bZy1VBWKXPi9ammmPgeGaTL0jXJdD3a+HSg0drfr7Js288GeEgsfaY3ZpOdq81oxvU3O10Jw5Boqfby7ChDrRWDMf/oAYJSTBmBDFdlFxOGSg/AuNmgiCD2lBcMZUkUR0R9zRjHy7rUjw7H5DqSnKsUGbLvKtLc21z7SsKiF9ADNakiRCmKTUxZRdpXRClMEfalseglobal.session = "https://khanxmd-pair.onrender.com"; 
  
  
 module.exports = {
@@ -16,8 +15,8 @@ ANTI_DELETE: process.env.ANTI_DELETE || "true", // can be set to inboxonly/allch
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
 AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
-AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed By JAWAD MD", // // Input Yours custom...
+AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "MD",
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️lewi won't view this status but i his assistant just did 😌 powered by lewi999", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273", // Only 1 owner Number Here, others Add to sudo numbers...
 OWNER_NAME: process.env.OWNER_NAME || "JawadTech", // Input Yours custom...(Maintain font for Flow)
